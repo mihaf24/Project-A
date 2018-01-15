@@ -1,0 +1,58 @@
+.btn-default:hover {
+    color: white;
+    background-color: #adadad;
+    border-color: #adadad;
+}
+
+.btn-default {
+    color: #adadad;
+    background-color: #2f2f2f;
+    border-color: #adadad;
+}
+
+
+.btn btn-success btn-md
+{ 
+    
+    padding: 5px 12px;
+    margin-top: 7px;
+}
+
+} 
+
+body {
+	font-family:Helvetica, Arial, sans-serif;
+	margin:0;
+	padding:0;
+	font-size:14px;
+}
+
+.slicknav_menu {
+	display:none;
+}
+
+@media screen and (max-width: 40em) {
+	.js #menu {
+		display:none;
+	}
+	
+	.js .slicknav_menu {
+		display:block;
+	}
+
+.navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+    
+    max-height: 340px;
+    font-size: 14px; 
+    } 
+    
+    
+   
+
+
+    
+    
+    
+    
+    
+    
