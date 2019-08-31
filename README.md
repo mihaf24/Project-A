@@ -19,6 +19,7 @@ Some screenshots of the projects is given below-
 **Login**
 ![](https://github.com/mihaf24/Project-A/blob/master/screenshots/login.PNG) 
 
+
 **Sign Up**
 ![](https://github.com/mihaf24/Project-A/blob/master/screenshots/signup.PNG) 
 
